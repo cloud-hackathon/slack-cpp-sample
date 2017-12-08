@@ -1,1 +1,1 @@
-web: ./slack_pingpong 
+web: /app/slack_pingpong
